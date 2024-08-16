@@ -1,7 +1,7 @@
 # Heroic Knight Princess Rescue Mission Written in Scratch
 
 ## Overview
-Just made a simple game using a no code platform game called Scratch.
+Just made a simple game using a no code platform game development called Scratch.
 [Game Link](https://scratch.mit.edu/projects/736540812)
 
 ## Screenshots
